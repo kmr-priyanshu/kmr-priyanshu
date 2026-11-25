@@ -18,4 +18,3 @@ I am a Health Science student at University of the People researching Healthcare
 
 - **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 - **Email:** priyanshu.kumar.real@gmail.com
-- 
