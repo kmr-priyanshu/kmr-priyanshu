@@ -16,5 +16,5 @@ I am a Health Science student at University of the People researching Healthcare
 
 ### Connect
 
-- **LinkedIn:** [://linkedin.com](www.linkedin.com/in/ kmr-priyanshu)
+- **LinkedIn:** www.linkedin.com/in/ kmr-priyanshu
 - **Email:** priyanshu.kumar.real@gmail.com
