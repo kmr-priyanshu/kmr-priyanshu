@@ -1,16 +1,21 @@
-## Hi there 👋
+### About Me
 
-<!--
-**kmr-priyanshu/kmr-priyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Health Science student at University of the People researching Healthcare Management and Technology. My work focuses on how data, digital systems, and operational efficiency can improve healthcare delivery and public health outcomes.
 
-Here are some ideas to get you started:
+### Research & Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Healthcare Management:** Improving clinical workflows, hospital operations, and medicine supply chain visibility.
+- **Digital Health & HealthTech:** Exploring electronic health records, public health informatics, and scalable health technologies.
+- **Data-Driven Care:** Using structured data and analytics to support evidence-based decisions in healthcare systems.
+
+### Current Learning & Tools
+
+- Pursuing a B.S. in Health Science (University of the People)
+- Certified in Google IT Support and Google Project Management
+- Exploring data analysis, research methodology, and technical documentation
+
+### Connect
+
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **Email:** priyanshu.kumar.real@gmail.com
+- 
